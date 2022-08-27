@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "someengineering/resoto",
+    "stargazers_count": 1111,
+    "open_issues_count": 38,
+    "forks_count": 53
+  },
+  {
+    "full_name": "open-sauced/hot",
+    "stargazers_count": 120,
+    "open_issues_count": 30,
+    "forks_count": 59
+  },
+  {
+    "full_name": "jorgef/engineeringladders",
+    "stargazers_count": 6159,
+    "open_issues_count": 1,
+    "forks_count": 356
+  },
+  {
+    "full_name": "bokwoon95/sq",
+    "stargazers_count": 113,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "jvm-profiling-tools/async-profiler",
+    "stargazers_count": 5365,
+    "open_issues_count": 29,
+    "forks_count": 622
+  },
+  {
+    "full_name": "modus-continens/modus",
+    "stargazers_count": 253,
+    "open_issues_count": 29,
+    "forks_count": 4
+  },
+  {
+    "full_name": "railwayapp/nixpacks",
+    "stargazers_count": 1055,
+    "open_issues_count": 37,
+    "forks_count": 38
+  },
+  {
+    "full_name": "trpc/trpc",
+    "stargazers_count": 11760,
+    "open_issues_count": 62,
+    "forks_count": 363
+  },
+  {
+    "full_name": "cncf/research-user-group",
+    "stargazers_count": 68,
+    "open_issues_count": 3,
+    "forks_count": 19
+  },
+  {
+    "full_name": "cloudflare/gokey",
+    "stargazers_count": 1443,
+    "open_issues_count": 4,
+    "forks_count": 75
+  },
+  {
+    "full_name": "pocketbase/pocketbase",
+    "stargazers_count": 9019,
+    "open_issues_count": 29,
+    "forks_count": 290
+  },
+  {
+    "full_name": "kubecost/cost-analyzer-helm-chart",
+    "stargazers_count": 265,
+    "open_issues_count": 247,
+    "forks_count": 264
+  },
+  {
+    "full_name": "jcsalterego/jqq",
+    "stargazers_count": 259,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "ruffle-rs/ruffle",
+    "stargazers_count": 10417,
+    "open_issues_count": 1891,
+    "forks_count": 494
+  },
+  {
+    "full_name": "paralus/paralus",
+    "stargazers_count": 204,
+    "open_issues_count": 10,
+    "forks_count": 13
+  },
+  {
+    "full_name": "platformagnosticworkloadspecification/public-site",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "insidegui/VirtualBuddy",
+    "stargazers_count": 2896,
+    "open_issues_count": 1,
+    "forks_count": 63
+  },
+  {
+    "full_name": "fermyon/installer",
+    "stargazers_count": 31,
+    "open_issues_count": 22,
+    "forks_count": 21
+  },
+  {
+    "full_name": "containers/bubblewrap",
+    "stargazers_count": 2669,
+    "open_issues_count": 136,
+    "forks_count": 177
+  },
+  {
+    "full_name": "cncf/kubernetes-community-days",
+    "stargazers_count": 111,
+    "open_issues_count": 21,
+    "forks_count": 84
+  },
+  {
+    "full_name": "fermyon/spin",
+    "stargazers_count": 1623,
+    "open_issues_count": 135,
+    "forks_count": 93
+  },
+  {
+    "full_name": "errata-ai/vale",
+    "stargazers_count": 2587,
+    "open_issues_count": 13,
+    "forks_count": 97
+  },
+  {
+    "full_name": "neondatabase/neon",
+    "stargazers_count": 4238,
+    "open_issues_count": 320,
+    "forks_count": 96
+  },
+  {
+    "full_name": "dragonflydb/dragonfly",
+    "stargazers_count": 11289,
+    "open_issues_count": 34,
+    "forks_count": 255
+  },
+  {
+    "full_name": "mgramin/awesome-db-tools",
+    "stargazers_count": 2275,
+    "open_issues_count": 82,
+    "forks_count": 184
+  },
+  {
+    "full_name": "metalbear-co/mirrord",
+    "stargazers_count": 1499,
+    "open_issues_count": 41,
+    "forks_count": 44
+  },
+  {
+    "full_name": "borisdayma/dalle-mini",
+    "stargazers_count": 12578,
+    "open_issues_count": 75,
+    "forks_count": 912
+  },
+  {
+    "full_name": "grafana/oncall",
+    "stargazers_count": 2143,
+    "open_issues_count": 104,
+    "forks_count": 77
+  },
+  {
+    "full_name": "luk4z7/go-concurrency-guide",
+    "stargazers_count": 1824,
+    "open_issues_count": 0,
+    "forks_count": 99
+  },
+  {
+    "full_name": "evrone/go-clean-template",
+    "stargazers_count": 3448,
+    "open_issues_count": 19,
+    "forks_count": 252
+  }
+]
