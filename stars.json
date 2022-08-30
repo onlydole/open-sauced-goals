@@ -1,32 +1,32 @@
 [
   {
     "full_name": "someengineering/resoto",
-    "stargazers_count": 1111,
-    "open_issues_count": 38,
+    "stargazers_count": 1116,
+    "open_issues_count": 39,
     "forks_count": 53
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 120,
-    "open_issues_count": 30,
+    "stargazers_count": 126,
+    "open_issues_count": 31,
     "forks_count": 59
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6159,
+    "stargazers_count": 6192,
     "open_issues_count": 1,
-    "forks_count": 356
+    "forks_count": 357
   },
   {
     "full_name": "bokwoon95/sq",
-    "stargazers_count": 113,
+    "stargazers_count": 116,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "jvm-profiling-tools/async-profiler",
-    "stargazers_count": 5365,
-    "open_issues_count": 29,
+    "stargazers_count": 5367,
+    "open_issues_count": 30,
     "forks_count": 622
   },
   {
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1055,
-    "open_issues_count": 37,
+    "stargazers_count": 1072,
+    "open_issues_count": 36,
     "forks_count": 38
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 11760,
-    "open_issues_count": 62,
-    "forks_count": 363
+    "stargazers_count": 11845,
+    "open_issues_count": 57,
+    "forks_count": 366
   },
   {
     "full_name": "cncf/research-user-group",
@@ -55,37 +55,37 @@
   },
   {
     "full_name": "cloudflare/gokey",
-    "stargazers_count": 1443,
+    "stargazers_count": 1444,
     "open_issues_count": 4,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 9019,
-    "open_issues_count": 29,
-    "forks_count": 290
+    "stargazers_count": 9173,
+    "open_issues_count": 30,
+    "forks_count": 294
   },
   {
     "full_name": "kubecost/cost-analyzer-helm-chart",
     "stargazers_count": 265,
-    "open_issues_count": 247,
+    "open_issues_count": 248,
     "forks_count": 264
   },
   {
     "full_name": "jcsalterego/jqq",
-    "stargazers_count": 259,
+    "stargazers_count": 260,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "ruffle-rs/ruffle",
-    "stargazers_count": 10417,
-    "open_issues_count": 1891,
-    "forks_count": 494
+    "stargazers_count": 10508,
+    "open_issues_count": 1897,
+    "forks_count": 497
   },
   {
     "full_name": "paralus/paralus",
-    "stargazers_count": 204,
+    "stargazers_count": 210,
     "open_issues_count": 10,
     "forks_count": 13
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "insidegui/VirtualBuddy",
-    "stargazers_count": 2896,
+    "stargazers_count": 2903,
     "open_issues_count": 1,
     "forks_count": 63
   },
@@ -109,73 +109,73 @@
   },
   {
     "full_name": "containers/bubblewrap",
-    "stargazers_count": 2669,
+    "stargazers_count": 2671,
     "open_issues_count": 136,
-    "forks_count": 177
+    "forks_count": 179
   },
   {
     "full_name": "cncf/kubernetes-community-days",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 21,
     "forks_count": 84
   },
   {
     "full_name": "fermyon/spin",
-    "stargazers_count": 1623,
-    "open_issues_count": 135,
+    "stargazers_count": 1628,
+    "open_issues_count": 136,
     "forks_count": 93
   },
   {
     "full_name": "errata-ai/vale",
-    "stargazers_count": 2587,
+    "stargazers_count": 2593,
     "open_issues_count": 13,
     "forks_count": 97
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 4238,
-    "open_issues_count": 320,
+    "stargazers_count": 4257,
+    "open_issues_count": 325,
     "forks_count": 96
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 11289,
-    "open_issues_count": 34,
-    "forks_count": 255
+    "stargazers_count": 11324,
+    "open_issues_count": 37,
+    "forks_count": 258
   },
   {
     "full_name": "mgramin/awesome-db-tools",
-    "stargazers_count": 2275,
-    "open_issues_count": 82,
-    "forks_count": 184
+    "stargazers_count": 2276,
+    "open_issues_count": 83,
+    "forks_count": 185
   },
   {
     "full_name": "metalbear-co/mirrord",
-    "stargazers_count": 1499,
-    "open_issues_count": 41,
+    "stargazers_count": 1506,
+    "open_issues_count": 44,
     "forks_count": 44
   },
   {
     "full_name": "borisdayma/dalle-mini",
-    "stargazers_count": 12578,
+    "stargazers_count": 12613,
     "open_issues_count": 75,
-    "forks_count": 912
+    "forks_count": 918
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 2143,
-    "open_issues_count": 104,
+    "stargazers_count": 2147,
+    "open_issues_count": 107,
     "forks_count": 77
   },
   {
     "full_name": "luk4z7/go-concurrency-guide",
-    "stargazers_count": 1824,
+    "stargazers_count": 1839,
     "open_issues_count": 0,
-    "forks_count": 99
+    "forks_count": 101
   },
   {
     "full_name": "evrone/go-clean-template",
-    "stargazers_count": 3448,
+    "stargazers_count": 3452,
     "open_issues_count": 19,
     "forks_count": 252
   }
