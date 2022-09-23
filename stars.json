@@ -1,69 +1,81 @@
 [
   {
+    "full_name": "openai/whisper",
+    "stargazers_count": 5092,
+    "open_issues_count": 9,
+    "forks_count": 271
+  },
+  {
+    "full_name": "adobe-platform/Adobe-Workshop-ArgoCon2022",
+    "stargazers_count": 1,
+    "open_issues_count": 2,
+    "forks_count": 3
+  },
+  {
     "full_name": "itchyny/gojq",
-    "stargazers_count": 2100,
-    "open_issues_count": 1,
+    "stargazers_count": 2185,
+    "open_issues_count": 0,
     "forks_count": 72
   },
   {
     "full_name": "dato-ai/dato.rss",
-    "stargazers_count": 575,
+    "stargazers_count": 584,
     "open_issues_count": 4,
     "forks_count": 15
   },
   {
     "full_name": "maxwell-bland/copilot-in-the-terminal",
-    "stargazers_count": 358,
+    "stargazers_count": 378,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "11ty/webc",
-    "stargazers_count": 569,
-    "open_issues_count": 5,
-    "forks_count": 9
+    "stargazers_count": 623,
+    "open_issues_count": 8,
+    "forks_count": 11
   },
   {
     "full_name": "joaocarvalhoopen/How_to_learn_modern_Rust",
-    "stargazers_count": 2218,
+    "stargazers_count": 2275,
     "open_issues_count": 2,
-    "forks_count": 56
+    "forks_count": 58
   },
   {
     "full_name": "awslabs/soci-snapshotter",
-    "stargazers_count": 179,
-    "open_issues_count": 9,
+    "stargazers_count": 182,
+    "open_issues_count": 10,
     "forks_count": 13
   },
   {
     "full_name": "headwaymaps/headway",
-    "stargazers_count": 2108,
-    "open_issues_count": 30,
-    "forks_count": 45
+    "stargazers_count": 2147,
+    "open_issues_count": 33,
+    "forks_count": 46
   },
   {
     "full_name": "apple/swift-book",
-    "stargazers_count": 1268,
-    "open_issues_count": 16,
+    "stargazers_count": 1274,
+    "open_issues_count": 17,
     "forks_count": 47
   },
   {
     "full_name": "someengineering/resoto",
     "stargazers_count": 1138,
-    "open_issues_count": 39,
+    "open_issues_count": 37,
     "forks_count": 53
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 148,
+    "stargazers_count": 150,
     "open_issues_count": 30,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6369,
+    "stargazers_count": 6391,
     "open_issues_count": 1,
-    "forks_count": 370
+    "forks_count": 372
   },
   {
     "full_name": "bokwoon95/sq",
@@ -73,27 +85,27 @@
   },
   {
     "full_name": "jvm-profiling-tools/async-profiler",
-    "stargazers_count": 5410,
-    "open_issues_count": 29,
-    "forks_count": 624
+    "stargazers_count": 5422,
+    "open_issues_count": 27,
+    "forks_count": 625
   },
   {
     "full_name": "modus-continens/modus",
-    "stargazers_count": 261,
+    "stargazers_count": 263,
     "open_issues_count": 29,
     "forks_count": 6
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1138,
-    "open_issues_count": 37,
-    "forks_count": 44
+    "stargazers_count": 1147,
+    "open_issues_count": 38,
+    "forks_count": 45
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 12971,
-    "open_issues_count": 77,
-    "forks_count": 401
+    "stargazers_count": 13183,
+    "open_issues_count": 71,
+    "forks_count": 409
   },
   {
     "full_name": "cncf/research-user-group",
@@ -103,49 +115,49 @@
   },
   {
     "full_name": "cloudflare/gokey",
-    "stargazers_count": 1461,
+    "stargazers_count": 1463,
     "open_issues_count": 4,
     "forks_count": 74
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 13489,
-    "open_issues_count": 38,
-    "forks_count": 440
+    "stargazers_count": 13876,
+    "open_issues_count": 39,
+    "forks_count": 455
   },
   {
     "full_name": "kubecost/cost-analyzer-helm-chart",
-    "stargazers_count": 273,
-    "open_issues_count": 248,
-    "forks_count": 269
+    "stargazers_count": 274,
+    "open_issues_count": 253,
+    "forks_count": 270
   },
   {
     "full_name": "jcsalterego/jqq",
-    "stargazers_count": 260,
+    "stargazers_count": 269,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "ruffle-rs/ruffle",
-    "stargazers_count": 10657,
-    "open_issues_count": 1901,
-    "forks_count": 506
+    "stargazers_count": 10676,
+    "open_issues_count": 1905,
+    "forks_count": 507
   },
   {
     "full_name": "paralus/paralus",
-    "stargazers_count": 338,
-    "open_issues_count": 18,
-    "forks_count": 19
+    "stargazers_count": 353,
+    "open_issues_count": 14,
+    "forks_count": 21
   },
   {
     "full_name": "platformagnosticworkloadspecification/public-site",
-    "stargazers_count": 5,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "insidegui/VirtualBuddy",
-    "stargazers_count": 2973,
+    "stargazers_count": 2980,
     "open_issues_count": 1,
     "forks_count": 66
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "containers/bubblewrap",
-    "stargazers_count": 2717,
+    "stargazers_count": 2722,
     "open_issues_count": 137,
     "forks_count": 183
   },
   {
     "full_name": "cncf/kubernetes-community-days",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 22,
     "forks_count": 84
-  },
-  {
-    "full_name": "fermyon/spin",
-    "stargazers_count": 1699,
-    "open_issues_count": 136,
-    "forks_count": 101
-  },
-  {
-    "full_name": "errata-ai/vale",
-    "stargazers_count": 2644,
-    "open_issues_count": 13,
-    "forks_count": 99
   }
 ]
