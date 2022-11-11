@@ -1,26 +1,32 @@
 [
   {
+    "full_name": "cello-proj/cello",
+    "stargazers_count": 246,
+    "open_issues_count": 30,
+    "forks_count": 33
+  },
+  {
     "full_name": "apenwarr/blip",
-    "stargazers_count": 1345,
+    "stargazers_count": 1393,
     "open_issues_count": 12,
-    "forks_count": 43
+    "forks_count": 45
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 2610,
-    "open_issues_count": 37,
-    "forks_count": 77
+    "stargazers_count": 2688,
+    "open_issues_count": 39,
+    "forks_count": 79
   },
   {
     "full_name": "score-spec/spec",
-    "stargazers_count": 4,
+    "stargazers_count": 21,
     "open_issues_count": 9,
-    "forks_count": 2
+    "forks_count": 4
   },
   {
     "full_name": "remult/remult",
-    "stargazers_count": 1585,
-    "open_issues_count": 29,
+    "stargazers_count": 1590,
+    "open_issues_count": 30,
     "forks_count": 63
   },
   {
@@ -32,78 +38,78 @@
   {
     "full_name": "cncf/sandbox",
     "stargazers_count": 13,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "cburgmer/buildviz",
-    "stargazers_count": 72,
+    "stargazers_count": 76,
     "open_issues_count": 16,
     "forks_count": 6
   },
   {
     "full_name": "honeycombio/buildevents",
-    "stargazers_count": 169,
+    "stargazers_count": 172,
     "open_issues_count": 8,
     "forks_count": 36
   },
   {
     "full_name": "rust-lang/mdBook",
-    "stargazers_count": 11088,
-    "open_issues_count": 394,
-    "forks_count": 1204
+    "stargazers_count": 11115,
+    "open_issues_count": 395,
+    "forks_count": 1206
   },
   {
     "full_name": "Netflix/consoleme",
-    "stargazers_count": 2891,
-    "open_issues_count": 47,
+    "stargazers_count": 2894,
+    "open_issues_count": 48,
     "forks_count": 229
   },
   {
     "full_name": "tetratelabs/wazero",
-    "stargazers_count": 2128,
+    "stargazers_count": 2134,
     "open_issues_count": 34,
     "forks_count": 114
   },
   {
     "full_name": "epasveer/seer",
-    "stargazers_count": 1227,
+    "stargazers_count": 1228,
     "open_issues_count": 20,
     "forks_count": 36
   },
   {
     "full_name": "cpressey/Facts-about-State-Machines",
-    "stargazers_count": 650,
+    "stargazers_count": 653,
     "open_issues_count": 3,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "stefanprodan/podinfo",
-    "stargazers_count": 3429,
-    "open_issues_count": 10,
-    "forks_count": 1074
+    "stargazers_count": 3438,
+    "open_issues_count": 9,
+    "forks_count": 1075
   },
   {
     "full_name": "shubhamgrg04/awesome-diagramming",
-    "stargazers_count": 2286,
+    "stargazers_count": 2290,
     "open_issues_count": 13,
     "forks_count": 56
   },
   {
     "full_name": "dalibo/pg_activity",
-    "stargazers_count": 1929,
+    "stargazers_count": 1932,
     "open_issues_count": 12,
     "forks_count": 170
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 11279,
-    "open_issues_count": 108,
-    "forks_count": 350
+    "stargazers_count": 11302,
+    "open_issues_count": 107,
+    "forks_count": 349
   },
   {
     "full_name": "noahgorstein/jqp",
-    "stargazers_count": 1489,
+    "stargazers_count": 1492,
     "open_issues_count": 10,
     "forks_count": 29
   },
@@ -115,44 +121,44 @@
   },
   {
     "full_name": "open-telemetry/opentelemetry-demo",
-    "stargazers_count": 372,
-    "open_issues_count": 48,
-    "forks_count": 147
+    "stargazers_count": 377,
+    "open_issues_count": 50,
+    "forks_count": 156
   },
   {
     "full_name": "simonw/action-transcription-demo",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 14,
     "forks_count": 4
   },
   {
     "full_name": "cassiozen/TDungeon",
-    "stargazers_count": 1060,
+    "stargazers_count": 1059,
     "open_issues_count": 0,
     "forks_count": 20
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 14524,
-    "open_issues_count": 10,
-    "forks_count": 1157
+    "stargazers_count": 14895,
+    "open_issues_count": 9,
+    "forks_count": 1193
   },
   {
     "full_name": "adobe-platform/Adobe-Workshop-ArgoCon2022",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "itchyny/gojq",
-    "stargazers_count": 2309,
-    "open_issues_count": 0,
+    "stargazers_count": 2316,
+    "open_issues_count": 1,
     "forks_count": 76
   },
   {
     "full_name": "davidesantangelo/dato.rss",
     "stargazers_count": 602,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 15
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "11ty/webc",
-    "stargazers_count": 953,
+    "stargazers_count": 960,
     "open_issues_count": 15,
     "forks_count": 22
   },
   {
     "full_name": "joaocarvalhoopen/How_to_learn_modern_Rust",
-    "stargazers_count": 2490,
+    "stargazers_count": 2488,
     "open_issues_count": 2,
     "forks_count": 63
-  },
-  {
-    "full_name": "awslabs/soci-snapshotter",
-    "stargazers_count": 199,
-    "open_issues_count": 44,
-    "forks_count": 18
   }
 ]
